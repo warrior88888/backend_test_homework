@@ -18,3 +18,6 @@ def test_program():
             'Исправьте в нем ошибки:\n'
             f'{e}'
         )
+
+def test_program2():
+    pass
